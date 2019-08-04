@@ -1,1 +1,2 @@
-Food wastage at Sakthi Mess was used as training data to minimize it using student attendence prediction.
+Food wastage at Sakthi Mess was used as training data.
+Training data contains features as temperature, humidity and attendence.
