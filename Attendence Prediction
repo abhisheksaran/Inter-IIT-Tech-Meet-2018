@@ -1,0 +1,3 @@
+An estimate of student coming to dinner was predicted.
+Used features are, weekends, week days, exam days.
+Algorithm used is linear regression.
